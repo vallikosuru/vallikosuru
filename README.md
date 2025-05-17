@@ -1,33 +1,11 @@
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vallikosuru.vallikosuru&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm  kanakavalli kosuru ,<br><br>- 🔭 I’m a B.tech Final year Student <br>- 📚 Computer Science & Engineering - a tech enthusiast with a solid background in DevOps, Cloud Computing, and Software Development. I’m passionate about creating scalable and automated cloud solutions along with modern web applications. I focus on growing my skills in cloud architecture, automation, and full-stack web development to build efficient and reliable digital products.</p>
+<p align="left">I'm  kanakavalli kosuru - a tech enthusiast with a solid background in DevOps, Cloud Computing, and Software Development. I’m passionate about creating scalable and automated cloud solutions along with modern web applications. I focus on growing my skills in cloud architecture, automation, and full-stack web development to build efficient and reliable digital products.</p>
 
 ###
 
