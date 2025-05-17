@@ -1,54 +1,89 @@
-# 💫 About Me:
-Hi, I'm Kanaka Valli Kosuru — a tech enthusiast with a solid background in DevOps, Cloud Computing, and Software Development. I’m passionate about creating scalable and automated cloud solutions along with modern web applications. I focus on growing my skills in cloud architecture, automation, and full-stack web development to build efficient and reliable digital products.
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanaka-valli-kosuru/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kosurukanakavalli@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=valli kosuru&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=valli kosuru&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valli kosuru&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=valli kosuru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vallikosuru.vallikosuru&"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=valli kosuru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=valli kosuru&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">hey there 👋</h1>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->=false&no-bg=true&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">👩‍💻  About Me</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=valli kosuru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=valli kosuru&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">I'm  kanakavalli kosuru ,<br><br>- 🔭 I’m a B.tech Final year Student <br>- 📚 Computer Science & Engineering - a tech enthusiast with a solid background in DevOps, Cloud Computing, and Software Development. I’m passionate about creating scalable and automated cloud solutions along with modern web applications. I focus on growing my skills in cloud architecture, automation, and full-stack web development to build efficient and reliable digital products.</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->![](https://github-readme-stats.vercel.app/api?username=valli kosuru&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=valli kosuru&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valli kosuru&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=valli kosuru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">🛠 Language and tools</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=valli kosuru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=valli kosuru&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vallikosuru&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=vallikosuru&" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vallikosuru/vallikosuru/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vallikosuru/vallikosuru/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vallikosuru/vallikosuru/output/pacman-contribution-graph.svg">
+</picture>
+
+###
